@@ -1,6 +1,6 @@
 {
   "name": "emily-project",
-  "homepage": "https://emilyvainberg12.github.io/emily-project",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
